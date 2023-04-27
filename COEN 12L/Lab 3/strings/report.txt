@@ -1,0 +1,28 @@
+unique
+------
+                               strings
+GreenEggsAndHam.txt             0.006
+Macbeth.txt                     0.014
+Genesis.txt                     0.012
+HoundOfTheBaskervilles.txt      0.012
+TheWarOfTheWorlds.txt           0.016
+TreasureIsland.txt              0.016
+TheSecretGarden.txt             0.016
+TwentyThousandLeagues.txt       0.020
+TheCountOfMonteCristo.txt       0.039
+Bible.txt                       0.050
+
+
+parity
+------
+                               strings
+GreenEggsAndHam.txt             0.095
+Macbeth.txt                     0.013
+Genesis.txt                     0.007
+HoundOfTheBaskervilles.txt      0.019
+TheWarOfTheWorlds.txt           0.013
+TreasureIsland.txt              0.015
+TheSecretGarden.txt             0.017
+TwentyThousandLeagues.txt       0.018
+TheCountOfMonteCristo.txt       0.072
+Bible.txt                       0.095
