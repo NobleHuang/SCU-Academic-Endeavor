@@ -1,0 +1,8 @@
+* C:\Users\mulia\Documents\!!! SCU\SCU Courses\My SCU Courseworks\ELEN 115\Homework Circuit Diagrams\HW 6 #1a - Case #2.asc
+R1 Vout Vin 5K
+V2 Vin 0
+V1 Vout 0 5
+V3 0 N001 5
+.dc V1 -2 2 0.1
+.backanno
+.end
