@@ -1,5 +1,5 @@
 # SCU-Academic-Endeavor
-My Work during My Academic Endeavor or Journey in Santa Clara University
+My Work during My Academic Endeavor in Santa Clara University
 
 Please Stay Tuned!
 It is not complete yet.
