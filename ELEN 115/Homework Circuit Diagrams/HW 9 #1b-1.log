@@ -1,0 +1,25 @@
+Circuit: * C:\Users\mulia\Documents\!!! SCU\SCU Courses\My SCU Courseworks\ELEN 115\Homework Circuit Diagrams\HW 9 #1b-1.asc
+
+WARNING: Node N002 is floating.
+
+Instance "m1": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Jun  5 12:22:28 2023
+Total elapsed time: 0.067 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4704
+traniter = 4679
+tranpoints = 1936
+accept = 1218
+rejected = 718
+matrix size = 6
+fillins = 0
+solver = Normal
+Avg thread counts: 1.2/1.5/1.5/1.2
+Matrix Compiler1: 182 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
