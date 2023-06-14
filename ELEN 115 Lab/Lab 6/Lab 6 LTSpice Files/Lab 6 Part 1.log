@@ -1,0 +1,30 @@
+Circuit: * C:\Users\mulia\Documents\!!! SCU\SCU Courses\My SCU Courseworks\ELEN 115 Lab\Lab 6\Lab 6 LTSpice Files\Lab 6 Part 1.asc
+
+vds: Missing value, assumed 0V @ DC
+vgs: Missing value, assumed 0V @ DC
+.OP point found by inspection.
+.step vgs=0
+.step vgs=0.5
+.step vgs=1
+.step vgs=1.5
+.step vgs=2
+.step vgs=2.5
+
+Date: Wed May 24 14:16:35 2023
+Total elapsed time: 0.047 seconds.
+
+tnom = 27
+temp = 27
+method = trap
+totiter = 320
+traniter = 0
+tranpoints = 0
+accept = 0
+rejected = 0
+matrix size = 4
+fillins = 0
+solver = Normal
+Avg thread counts: 4.0/0.0/6.9/4.0
+Matrix Compiler1: 136 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: off  [0.1]/0.1/0.1
+
