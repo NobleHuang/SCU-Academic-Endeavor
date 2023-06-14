@@ -1,0 +1,4 @@
+Circuit: * C:\Users\mulia\Documents\!!! SCU\SCU Courses\My SCU Courseworks\ELEN 115\Final Exam 2021 Review\Draft1.asc
+
+Fatal Error: Voltage source V2 and voltage source V1 are paralleled making an over-defined circuit matrix.
+You will need to correct the circuit or add some series resistance.
